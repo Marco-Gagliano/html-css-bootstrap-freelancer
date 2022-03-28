@@ -7,6 +7,10 @@
   height: 100px;
 }
 
+.h150 {
+  height: 150px;
+}
+
 .h300 {
   height: 300px;
 }
@@ -14,3 +18,30 @@
 .h500 {
   height: 500px;
 }
+
+/* HEADER */
+/* /HEADER */
+/* JUMBTRON */
+/* /JUMBTRON */
+/* MAIN */
+/* /MAIN */
+
+
+
+
+
+
+
+/* FOOTER */
+
+.contact {
+  background-color: #3A546D;
+}
+
+.copyright {
+  background-color: #2C3E50;
+}
+
+
+
+/* /FOOTER */
