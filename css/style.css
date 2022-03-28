@@ -22,9 +22,17 @@
 /* HEADER */
 /* /HEADER */
 /* JUMBTRON */
-/* /JUMBTRON */
-/* MAIN */
 
+.avatar img {
+  width: 12%;
+  margin: 0 auto;
+}
+
+
+/* /JUMBTRON */
+
+
+/* MAIN */
 
 /* PORTFOLIO */
 
@@ -51,7 +59,7 @@
   margin: 0 auto;
 }
 
-.about {
+.green {
   background-color: #1ABC9C;
 }
 
