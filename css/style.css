@@ -27,7 +27,7 @@
 
 /* ABOUT */
 
-.sc-container {
+.sc-container-about {
   width: 70%;
   margin: 0 auto;
 }
@@ -47,6 +47,15 @@
 }
 
 /* /ABOUT */
+
+
+/* CONTACT ME */
+
+.sc-container-contact {
+  width: 67%;
+  margin: 0 auto;
+}
+
 
 
 
