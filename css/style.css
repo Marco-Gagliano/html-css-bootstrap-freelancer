@@ -11,8 +11,8 @@
   height: 150px;
 }
 
-.h300 {
-  height: 300px;
+.h250 {
+  height: 250px;
 }
 
 .h500 {
@@ -24,6 +24,32 @@
 /* JUMBTRON */
 /* /JUMBTRON */
 /* MAIN */
+
+/* ABOUT */
+
+.sc-container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.about {
+  background-color: #1ABC9C;
+}
+
+.btn-download {
+  background-color: #1ABC9C;
+  border-color: #FFFFFF;
+}
+
+.btn-download:hover {
+  color: #2C3F4F;
+  background-color: #FFFFFF;
+}
+
+/* /ABOUT */
+
+
+
 /* /MAIN */
 
 
