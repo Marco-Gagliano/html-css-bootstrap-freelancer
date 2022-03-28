@@ -25,6 +25,25 @@
 /* /JUMBTRON */
 /* MAIN */
 
+
+/* PORTFOLIO */
+
+.sc-container-portfolio {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.sc-container-portfolio img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* /PORTFOLIO */
+
+
+
+
+
 /* ABOUT */
 
 .sc-container-about {
@@ -55,6 +74,8 @@
   width: 67%;
   margin: 0 auto;
 }
+
+/* /CONTACT ME */
 
 
 
