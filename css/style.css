@@ -20,14 +20,28 @@
 }
 
 /* HEADER */
+
+.sc-bg-nav {
+  background-color: #2C3E50 !important;
+}
+
+.navbar-light .navbar-toggler {
+  border: 1px solid #FFFFFF;
+  
+
+} 
+
+
+
 /* /HEADER */
+
+
 /* JUMBTRON */
 
 .avatar img {
   width: 12%;
   margin: 0 auto;
 }
-
 
 /* /JUMBTRON */
 
@@ -47,9 +61,6 @@
 }
 
 /* /PORTFOLIO */
-
-
-
 
 
 /* ABOUT */
@@ -85,15 +96,7 @@
 
 /* /CONTACT ME */
 
-
-
-
 /* /MAIN */
-
-
-
-
-
 
 
 /* FOOTER */
@@ -105,7 +108,5 @@
 .copyright {
   background-color: #2C3E50;
 }
-
-
 
 /* /FOOTER */
